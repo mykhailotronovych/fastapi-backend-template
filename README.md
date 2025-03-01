@@ -295,14 +295,3 @@ README.md                               # The main documentation file for this t
 codecov.yaml                            # The configuration file for automated testing CI with codecov.io
 docker-compose.yaml                     # The main configuration file for setting up a multi-container Docker
 ```
-
-## Final Step
-
-You can delete these 3 files (or change its content based on your need):
-- `LICENSE.md`
-- `README.md`
-- `backend/README.md`
-
-Enjoy your development and may your technology be forever useful to everyone 😉🚀🧬
-
----
